@@ -1,5 +1,5 @@
 # Quan_Ly_Lich_Ca_Nhan_HCMUTE_G2
-Quáº£n LÃ½ Lá»‹ch CÃ¡ NhÃ¢n Oniline.
+Quản Lý Lịch Cá Nhân Online.
 
 Nhóm 2: 
 1. Nguyễn Thanh An	MSSV:13110001.
