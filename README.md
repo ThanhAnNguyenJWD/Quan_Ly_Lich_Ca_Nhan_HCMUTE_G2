@@ -4,5 +4,5 @@ Quản Lý Lịch Cá Nhân Online.
 Nhóm 2: 
 1. Nguyễn Thanh An	MSSV:13110001.
 2. Trần Đăng Khoa	MSSV:13110081.
-3. Bùi Tấn Hiển		MSSV:13110158.
-4. Trần Quốc Thiện	MSSV:1311
+3. Bùi Tấn Hiển		MSSV:13110058.
+4. Trần Quốc Thiện	MSSV:13110158
